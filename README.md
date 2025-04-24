@@ -2,6 +2,8 @@
 
 A curated list of resources to help unify and standardize the landscape of Visual SLAM, Structure-from-Motion, datasets, tools, and educational content. This page collects links to key projects, foundational papers, tools, and talks.
 
+👋 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest more tools, papers, or resources.
+
 ---
 
 ## 📌 Contents
@@ -113,9 +115,5 @@ A curated list of resources to help unify and standardize the landscape of Visua
 | [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) | A curated list of SLAM datasets |
 
 </details>
-
----
-
-👋 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest more tools, papers, or resources.
 
 
