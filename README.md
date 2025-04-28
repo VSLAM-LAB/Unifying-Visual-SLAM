@@ -9,12 +9,13 @@ A curated list of resources to help unify and standardize the landscape of Visua
 ## 📌 Contents
 
 - [Visual SLAM](#visual-slam)
-- [Structure-from-Motion (SfM)](#structure-from-motion-sfm)
 - [Benchmarks / Libraries](#benchmarks--libraries)
-- [Datasets](#datasets)
-- [Educational Resources](#educational-resources)
+- [Foundational Datasets](#foundational-datasets)
 - [Foundational Papers](#foundational-papers)
+- [Educational Resources](#educational-resources)
 - [Talks](#talks)
+- [Datasets](#datasets)
+- [Structure-from-Motion (SfM)](#structure-from-motion-sfm)
 - [Other Tools](#other-tools)
 - [More Resources](#more-resources)
 
@@ -35,16 +36,6 @@ A curated list of resources to help unify and standardize the landscape of Visua
 </details>
 
 <details>
-<summary><strong>Structure-from-Motion (SfM)</strong></summary>
-
-| Link | Description |
-|------|-------------|
-| [GLOMAP](https://github.com/colmap/glomap) | Global Structure-from-Motion Revisited |
-| [COLMAP](https://github.com/colmap/colmap) | General-purpose SfM and MVS pipeline |
-
-</details>
-
-<details>
 <summary><strong>Benchmarks / Libraries</strong></summary>
 
 | Link | Description |
@@ -57,11 +48,22 @@ A curated list of resources to help unify and standardize the landscape of Visua
 </details>
 
 <details>
-<summary><strong>Datasets</strong></summary>
+<summary><strong>Foundational Datasets</strong></summary>
 
 | Link | Description |
 |------|-------------|
-| [CroCoDL](https://zuriich.github.io/CroCoDL/) | AR localization benchmark from legged robots |
+| [ETH3D](https://www.eth3d.net/slam_datasets) | ETH3D SLAM & Stereo Benchmarks |
+| [RGB-D TUM](https://cvg.cit.tum.de/data/datasets/rgbd-dataset) | RGB-D SLAM Dataset and Benchmark |
+
+</details>
+
+<details>
+<summary><strong>Foundational Papers</strong></summary>
+
+| Link | Description |
+|------|-------------|
+| [PTAM](https://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf) | Parallel Tracking and Mapping for Small AR Workspace |
+| [MonoSLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4160954) | Real-Time Single Camera SLAM |
 
 </details>
 
@@ -77,16 +79,6 @@ A curated list of resources to help unify and standardize the landscape of Visua
 </details>
 
 <details>
-<summary><strong>Foundational Papers</strong></summary>
-
-| Link | Description |
-|------|-------------|
-| [PTAM](https://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf) | Parallel Tracking and Mapping for Small AR Workspace |
-| [MonoSLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4160954) | Real-Time Single Camera SLAM |
-
-</details>
-
-<details>
 <summary><strong>Talks</strong></summary>
 
 | Link | Description |
@@ -94,6 +86,26 @@ A curated list of resources to help unify and standardize the landscape of Visua
 | [Daniel Cremers - Deep and Direct SLAM](https://www.youtube.com/watch?v=s9yc9-d-Vc8) | Tartan SLAM Series |
 | [Andrew Davison - From SLAM to Spatial AI](https://www.youtube.com/watch?v=PQFfJnmK26A) | Robotics Today |
 | [Graph-based Spatial AI](https://www.youtube.com/watch?v=svzQgfkrxZc) | Andrew Davison, Tartan SLAM Series |
+
+</details>
+
+<details>
+<summary><strong>Datasets</strong></summary>
+
+| Link | Description |
+|------|-------------|
+| [CroCoDL](https://zuriich.github.io/CroCoDL/) | AR localization benchmark from legged robots |
+| [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) | A Multi-modal and Multi-scenario SLAM Dataset for Ground Robots |
+
+</details>
+
+<details>
+<summary><strong>Structure-from-Motion (SfM)</strong></summary>
+
+| Link | Description |
+|------|-------------|
+| [GLOMAP](https://github.com/colmap/glomap) | Global Structure-from-Motion Revisited |
+| [COLMAP](https://github.com/colmap/colmap) | General-purpose SfM and MVS pipeline |
 
 </details>
 
