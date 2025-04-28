@@ -87,6 +87,9 @@ A curated list of resources to help unify and standardize the landscape of Visua
 | [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) | A Multi-modal and Multi-scenario SLAM Dataset for Ground Robots |
 | [Fusionportable](https://fusionportable.github.io/dataset/fusionportable/) | A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms |
 | [FusionPortable V2](https://fusionportable.github.io/dataset/fusionportable_v2/) | From Campus to Highway: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments |
+| [MCD](https://mcdviral.github.io/) | Diverse Large-Scale Multi-Campus Dataset for Robot Perception |
+| [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) | A high-quality dataset for robot navigation in unstructured natural environments |
+| [Oxford Spires](https://dynamic.robots.ox.ac.uk/datasets/oxford-spires/) | Captured around well-known landmarks in Oxford using a custom-built multi-sensor perception unit as well as a millimetre-accurate map from a terrestrial LiDAR scanner. |
 
 </details>
 
