@@ -13,9 +13,9 @@ A curated list of resources to help unify and standardize the landscape of Visua
 - [Foundational Datasets](#foundational-datasets)
 - [Foundational Papers](#foundational-papers)
 - [Educational Resources](#educational-resources)
-- [Talks](#talks)
 - [Datasets](#datasets)
 - [Structure-from-Motion (SfM)](#structure-from-motion-sfm)
+- [Talks](#talks)
 - [Other Tools](#other-tools)
 - [More Resources](#more-resources)
 
@@ -79,23 +79,14 @@ A curated list of resources to help unify and standardize the landscape of Visua
 </details>
 
 <details>
-<summary><strong>Talks</strong></summary>
-
-| Link | Description |
-|------|-------------|
-| [Daniel Cremers - Deep and Direct SLAM](https://www.youtube.com/watch?v=s9yc9-d-Vc8) | Tartan SLAM Series |
-| [Andrew Davison - From SLAM to Spatial AI](https://www.youtube.com/watch?v=PQFfJnmK26A) | Robotics Today |
-| [Graph-based Spatial AI](https://www.youtube.com/watch?v=svzQgfkrxZc) | Andrew Davison, Tartan SLAM Series |
-
-</details>
-
-<details>
 <summary><strong>Datasets</strong></summary>
 
 | Link | Description |
 |------|-------------|
 | [CroCoDL](https://zuriich.github.io/CroCoDL/) | AR localization benchmark from legged robots |
 | [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) | A Multi-modal and Multi-scenario SLAM Dataset for Ground Robots |
+| [Fusionportable](https://fusionportable.github.io/dataset/fusionportable/) | A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms |
+| [FusionPortable V2](https://fusionportable.github.io/dataset/fusionportable_v2/) | From Campus to Highway: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments |
 
 </details>
 
@@ -106,6 +97,17 @@ A curated list of resources to help unify and standardize the landscape of Visua
 |------|-------------|
 | [GLOMAP](https://github.com/colmap/glomap) | Global Structure-from-Motion Revisited |
 | [COLMAP](https://github.com/colmap/colmap) | General-purpose SfM and MVS pipeline |
+
+</details>
+
+<details>
+<summary><strong>Talks</strong></summary>
+
+| Link | Description |
+|------|-------------|
+| [Daniel Cremers - Deep and Direct SLAM](https://www.youtube.com/watch?v=s9yc9-d-Vc8) | Tartan SLAM Series |
+| [Andrew Davison - From SLAM to Spatial AI](https://www.youtube.com/watch?v=PQFfJnmK26A) | Robotics Today |
+| [Graph-based Spatial AI](https://www.youtube.com/watch?v=svzQgfkrxZc) | Andrew Davison, Tartan SLAM Series |
 
 </details>
 
