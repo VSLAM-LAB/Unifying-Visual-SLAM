@@ -2,7 +2,9 @@
 
 A curated list of resources to help unify and standardize the landscape of Visual SLAM, Structure-from-Motion, datasets, tools, and educational content. This page collects links to key projects, foundational papers, tools, and talks.
 
-👋 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest more tools, papers, or resources.
+This collection was created as an outcome of the RSS 2025 Workshop [Unifying Visual SLAM](https://visual-slam-lab.github.io/unifying-visual-slam/).
+
+👋 **Contributions are welcome!**! Feel free to open an issue or submit a pull request to suggest more tools, papers, or resources.
 
 ---
 
