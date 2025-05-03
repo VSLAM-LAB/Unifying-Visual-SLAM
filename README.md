@@ -2,7 +2,7 @@
 
 A curated list of resources to help unify and standardize the landscape of Visual SLAM, Structure-from-Motion, datasets, tools, and educational content. This page collects links to key projects, foundational papers, tools, and talks.
 
-This collection was created as an outcome of the RSS 2025 Workshop [Unifying Visual SLAM](https://visual-slam-lab.github.io/unifying-visual-slam/). Organizers: <a href="https://scholar.google.com/citations?user=SDtnGogAAAAJ&hl=en"><strong>Alejandro Fontan</strong></a>, Lukas Schmid, Olga Vysotska, Mubariz Zaffar, Linfei Pan, Gokul B. Nair, Johan Barthelemy, <a href="https://scholar.google.com/citations?user=j_sMzokAAAAJ&hl=en"><strong>Javier Civera</strong></a> and <a href="https://scholar.google.com/citations?user=TDSmCKgAAAAJ&hl=en"><strong>Michael Milford</strong></a>
+This collection was created as an outcome of the RSS 2025 Workshop [Unifying Visual SLAM](https://visual-slam-lab.github.io/unifying-visual-slam/). Organizers: <a href="https://scholar.google.com/citations?user=SDtnGogAAAAJ&hl=en"><strong>Alejandro Fontan</strong></a>, <a href="https://schmluk.github.io"/><strong>Lukas Schmid</strong></a>, Olga Vysotska, Mubariz Zaffar, Linfei Pan, Gokul B. Nair, Johan Barthelemy, <a href="https://scholar.google.com/citations?user=j_sMzokAAAAJ&hl=en"><strong>Javier Civera</strong></a> and <a href="https://scholar.google.com/citations?user=TDSmCKgAAAAJ&hl=en"><strong>Michael Milford</strong></a>
 
 👋 **Contributions are welcome!**! Feel free to open an issue or submit a pull request to suggest more tools, papers, or resources.
 
