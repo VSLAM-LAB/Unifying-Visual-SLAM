@@ -132,6 +132,9 @@ This collection was created as an outcome of the RSS 2025 Workshop [Unifying Vis
 | Link | Description |
 |------|-------------|
 | [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) | A curated list of SLAM datasets |
+| [Awesome-Transformer-based-SLAM](https://kwanwaipang.github.io/Awesome-Transformer-based-SLAM/) | A curated list of SLAM related task employing Transformer |
+
+
 
 </details>
 
