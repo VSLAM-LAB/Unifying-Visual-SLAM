@@ -34,6 +34,7 @@ This collection was created as an outcome of the RSS 2025 Workshop [Unifying Vis
 | [DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) | Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras |
 | [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | SLAM for Monocular, Stereo, and RGB-D Cameras |
 | [DSO](https://github.com/JakobEngel/dso) | Direct Sparse Odometry |
+| [PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) | PyCuVSLAM |
 
 </details>
 
